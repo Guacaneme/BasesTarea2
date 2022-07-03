@@ -1,9 +1,0 @@
-departamento_nombre
-divipola_municipio
-municipio_nombre
-codigo_gestor
-gestor_catastral
-periodo_reporte_id
-archivo
-entrega
-validaciones_obligatorias_no_satisfechas
